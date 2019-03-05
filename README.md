@@ -7,4 +7,6 @@ some change
 
 changes from test-change
 
-#conflict1111
+# conflict1111
+
+# master
